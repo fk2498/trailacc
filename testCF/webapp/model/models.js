@@ -23,7 +23,7 @@ sap.ui.define([
 			return oModel;
 		},
 		
-		createHWModel : function () {
+		createHModel : function () {
 			
 		}
 	};
