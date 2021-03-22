@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "ui5 build --clean-dest --include-task=generateManifestBundle generateCachebusterInfo",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" "
   },
   "ui5": {
     "dependencies": [
