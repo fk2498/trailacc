@@ -1,6 +1,6 @@
 <mvc:View
 	controllerName="devops.testCF.controller.App"
-	displayBlock="false"
+	displayBlock="true"
 	xmlns="sap.m"
 	xmlns:mvc="sap.ui.core.mvc">
 	<App
